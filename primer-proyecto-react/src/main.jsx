@@ -1,10 +1,10 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import App from './App.jsx'
-import './index.css'
+import { Apptmb } from './componente/Apptmb.jsx'
+import './componentecss/Apptmb.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <App />
+    <Apptmb/>
   </React.StrictMode>,
 )
