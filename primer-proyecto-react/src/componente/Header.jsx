@@ -8,10 +8,10 @@ export const Header = () => {
     <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAACSElEQVR4nO1aS04CQRB9bPAAcgIS5hhE3LJUz6Bb3RhdkbhxATdQL2LYuYGFJ1AIR/CXsJikTZOGtARmqsbunmmol9Smeqh6/ezueeMMIBAIBAIyagDaAC5NtE1uL/g0AYwBqLUYm7HQCMqnAWC2odkyZuaaUAjOZ2AVnwN4MDG38n2XDavGZ2oVPrHyp1Z+4rJh1fikVuG6la9beX1NKATno6zgjPlCcD5KBICsALUvW6C25q46EW+BYwBXHJfY3OKuYhWA5RIbOe5qFwTIdIkDgruKTQCWS5wS3FVsArBcYkpwV7EJwHKJquAkqywAZwwiAGQFQLYANu+Pd5N/4+4rT/DCVWUMtoydbHGLeoIXrqrgROzfXQcKF1xXSIwxcFG0jCjKVW+VxSq5dVg0JgF03Ohkj1D0AsArgHOGAC8A7j1FFtfEPAInBK49qgA/Jv/NEGBR3BNc3AUyBbA99EFOw6oJQJ1HpgD6yWmJs4ICPJd0F6DOYyXApkNQPzs/Anhi/j+gCocgdR6rQzAx+8VFw6oJkBV6zn/MkouGvk59zl2g6DzgQoBQEAEgKwCyBSBnAEo5BOsMl+gLVD4sAVLiDzku0ReofLZFmvdiRGUExyX6ApXPtpjkvRpTBaMMAYpE/z8vR1XkAug5Hm4r3AQw2mEBRpSPKGtrH0gcRSxAx9VntCpSAeJtmAMRALICEHRFfhKafbhsWDU+Q0JDfU0oBOfTJTTU14RCKXzuMprpsdAohU/XLK0vE8PAf/mq8xEIBAIBYsIvA9mworpqujYAAAAASUVORK5CYII="/>
     </span>
     <nav className='header-nav'>
-        <ul className='header-nav-ul'>
-        <a href="#">primer link</a>
-        <a href="#">segundo link</a>
-        <a href="#">tercer link</a>
+    <ul className='header-nav-ul'>
+            <il><a href="#">calculadora</a></il>
+            <il><a href="#">rutinas</a></il>
+            <il><a href="#">resetas</a></il>
         </ul>
     </nav>
     <div className="header-div-redsocial">

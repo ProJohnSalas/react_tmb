@@ -1,10 +1,15 @@
 import React from 'react'
-import { Header } from './header'
+import { Header } from './Header.jsx'
+import { Seccionprincipal } from './seccionprincipal.jsx'
+import { Pross } from './pross.jsx'
 
 export const Apptmb = () => {
   return (
-    <> 
-    <Header/>
+    <>
+      <Header/>
+      <Seccionprincipal>
+        <Pross/>
+      </Seccionprincipal>  
     </>
   )
 }
